@@ -35,6 +35,7 @@ Press F10 on OpenMsx.
 
 set printerlogfilename /path/to/store/printer.txt
 plug printerport logger
+
 In msxbasic then use "llist"
 
 #Other references References:

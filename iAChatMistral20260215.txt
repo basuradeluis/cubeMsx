@@ -121,32 +121,14 @@ El programa dibuja un cubo 3D en la pantalla, permite rotarlo (izquierda/derecha
 
 ¿Quieres que profundice en algún aspecto concreto del código o su funcionamiento?
 
-
-
-
 12:22
-
-
-
-
-
-
 
 
 
 Muy bien. ¿Podrias darme algun consejo para optimizarlo y hacerlo mas rapido?
 
 
-
-
-
 12:24
-
-
-
-
-
-
 
 
 
